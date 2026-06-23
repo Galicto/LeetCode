@@ -14,4 +14,16 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Galicto/LeetCode/tree/master/0013-roman-to-integer) |
+## Array
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Galicto/LeetCode/tree/master/0011-container-with-most-water) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Galicto/LeetCode/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Galicto/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->

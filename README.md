@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Galicto/LeetCode/tree/master/0011-container-with-most-water) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Galicto/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Galicto/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Two Pointers
 |  |
@@ -43,5 +44,6 @@
 ## Binary Search
 |  |
 | ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/Galicto/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Galicto/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->

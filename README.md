@@ -23,6 +23,7 @@
 | [0020-valid-parentheses](https://github.com/Galicto/LeetCode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Galicto/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Galicto/LeetCode/tree/master/0344-reverse-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Galicto/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Array
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Galicto/LeetCode/tree/master/0020-valid-parentheses) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Galicto/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Linked List
 |  |
 | ------- |
@@ -95,4 +97,8 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Galicto/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Galicto/LeetCode/tree/master/0088-merge-sorted-array) |
+## Simulation
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Galicto/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->

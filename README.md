@@ -12,6 +12,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Galicto/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Galicto/LeetCode/tree/master/0013-roman-to-integer) |
+| [0567-permutation-in-string](https://github.com/Galicto/LeetCode/tree/master/0567-permutation-in-string) |
 ## String
 |  |
 | ------- |
@@ -23,6 +24,7 @@
 | [0020-valid-parentheses](https://github.com/Galicto/LeetCode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Galicto/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Galicto/LeetCode/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/Galicto/LeetCode/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Galicto/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Array
 |  |
@@ -49,6 +51,7 @@
 | [0088-merge-sorted-array](https://github.com/Galicto/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Galicto/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Galicto/LeetCode/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/Galicto/LeetCode/tree/master/0567-permutation-in-string) |
 ## Greedy
 |  |
 | ------- |
@@ -88,6 +91,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Galicto/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/Galicto/LeetCode/tree/master/0567-permutation-in-string) |
 ## Trie
 |  |
 | ------- |

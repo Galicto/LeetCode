@@ -21,6 +21,7 @@
 | [0013-roman-to-integer](https://github.com/Galicto/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Galicto/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Galicto/LeetCode/tree/master/0020-valid-parentheses) |
+| [0344-reverse-string](https://github.com/Galicto/LeetCode/tree/master/0344-reverse-string) |
 ## Array
 |  |
 | ------- |
@@ -44,6 +45,7 @@
 | [0031-next-permutation](https://github.com/Galicto/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Galicto/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Galicto/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0344-reverse-string](https://github.com/Galicto/LeetCode/tree/master/0344-reverse-string) |
 ## Greedy
 |  |
 | ------- |

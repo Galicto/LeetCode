@@ -36,6 +36,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Galicto/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Galicto/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Galicto/LeetCode/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/Galicto/LeetCode/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/Galicto/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Galicto/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0410-split-array-largest-sum](https://github.com/Galicto/LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -80,6 +81,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Galicto/LeetCode/tree/master/0035-search-insert-position) |
 | [0410-split-array-largest-sum](https://github.com/Galicto/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Galicto/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Galicto/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |

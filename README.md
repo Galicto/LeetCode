@@ -10,6 +10,7 @@
 | [0012-integer-to-roman](https://github.com/Galicto/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Galicto/LeetCode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/Galicto/LeetCode/tree/master/0067-add-binary) |
+| [0096-unique-binary-search-trees](https://github.com/Galicto/LeetCode/tree/master/0096-unique-binary-search-trees) |
 ## Hash Table
 |  |
 | ------- |
@@ -109,6 +110,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Galicto/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/Galicto/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Galicto/LeetCode/tree/master/0055-jump-game) |
+| [0096-unique-binary-search-trees](https://github.com/Galicto/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0410-split-array-largest-sum](https://github.com/Galicto/LeetCode/tree/master/0410-split-array-largest-sum) |
 ## Prefix Sum
 |  |
@@ -158,6 +160,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Galicto/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Galicto/LeetCode/tree/master/0096-unique-binary-search-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -166,4 +169,9 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Galicto/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Galicto/LeetCode/tree/master/0096-unique-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/Galicto/LeetCode/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->

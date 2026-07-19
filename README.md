@@ -53,6 +53,7 @@
 | [0035-search-insert-position](https://github.com/Galicto/LeetCode/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/Galicto/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Galicto/LeetCode/tree/master/0055-jump-game) |
+| [0059-spiral-matrix-ii](https://github.com/Galicto/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/Galicto/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Galicto/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Galicto/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -144,6 +145,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Galicto/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Galicto/LeetCode/tree/master/0067-add-binary) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Galicto/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Divide and Conquer
@@ -188,5 +190,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Galicto/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Galicto/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->

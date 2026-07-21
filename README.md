@@ -176,15 +176,18 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Galicto/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0096-unique-binary-search-trees](https://github.com/Galicto/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0101-symmetric-tree](https://github.com/Galicto/LeetCode/tree/master/0101-symmetric-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Galicto/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/Galicto/LeetCode/tree/master/0101-symmetric-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Galicto/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0096-unique-binary-search-trees](https://github.com/Galicto/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0101-symmetric-tree](https://github.com/Galicto/LeetCode/tree/master/0101-symmetric-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -194,4 +197,8 @@
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Galicto/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Galicto/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/Galicto/LeetCode/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->

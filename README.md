@@ -10,6 +10,7 @@
 | [0012-integer-to-roman](https://github.com/Galicto/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Galicto/LeetCode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Galicto/LeetCode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Galicto/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Galicto/LeetCode/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/Galicto/LeetCode/tree/master/0096-unique-binary-search-trees) |
 ## Hash Table
@@ -55,6 +56,7 @@
 | [0045-jump-game-ii](https://github.com/Galicto/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Galicto/LeetCode/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/Galicto/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/Galicto/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Galicto/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Galicto/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Galicto/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |

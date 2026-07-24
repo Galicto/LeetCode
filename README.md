@@ -45,6 +45,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Galicto/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Galicto/LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Galicto/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Galicto/LeetCode/tree/master/0015-3sum) |
@@ -113,6 +114,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Galicto/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Galicto/LeetCode/tree/master/0035-search-insert-position) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Galicto/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/Galicto/LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -156,6 +158,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Galicto/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Galicto/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Galicto/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Heap (Priority Queue)

@@ -212,4 +212,8 @@
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Galicto/LeetCode/tree/master/0101-symmetric-tree) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Galicto/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->

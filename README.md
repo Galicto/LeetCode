@@ -13,6 +13,7 @@
 | [0050-powx-n](https://github.com/Galicto/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Galicto/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Galicto/LeetCode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/Galicto/LeetCode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Galicto/LeetCode/tree/master/0096-unique-binary-search-trees) |
 ## Hash Table
 |  |
@@ -127,6 +128,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Galicto/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/Galicto/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Galicto/LeetCode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Galicto/LeetCode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Galicto/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0410-split-array-largest-sum](https://github.com/Galicto/LeetCode/tree/master/0410-split-array-largest-sum) |
 ## Prefix Sum
@@ -220,4 +222,8 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Galicto/LeetCode/tree/master/0175-combine-two-tables) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Galicto/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

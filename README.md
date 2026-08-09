@@ -38,6 +38,7 @@
 | [0038-count-and-say](https://github.com/Galicto/LeetCode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Galicto/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Galicto/LeetCode/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/Galicto/LeetCode/tree/master/0071-simplify-path) |
 | [0091-decode-ways](https://github.com/Galicto/LeetCode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Galicto/LeetCode/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/Galicto/LeetCode/tree/master/0125-valid-palindrome) |
@@ -102,6 +103,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Galicto/LeetCode/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Galicto/LeetCode/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Galicto/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Galicto/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Galicto/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |

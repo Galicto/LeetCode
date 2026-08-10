@@ -22,6 +22,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Galicto/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Galicto/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Galicto/LeetCode/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/Galicto/LeetCode/tree/master/0036-valid-sudoku) |
 | [0567-permutation-in-string](https://github.com/Galicto/LeetCode/tree/master/0567-permutation-in-string) |
 ## String
 |  |
@@ -60,6 +61,7 @@
 | [0027-remove-element](https://github.com/Galicto/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Galicto/LeetCode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Galicto/LeetCode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/Galicto/LeetCode/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/Galicto/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Galicto/LeetCode/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/Galicto/LeetCode/tree/master/0059-spiral-matrix-ii) |
@@ -235,6 +237,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Galicto/LeetCode/tree/master/0036-valid-sudoku) |
 | [0059-spiral-matrix-ii](https://github.com/Galicto/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Galicto/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Breadth-First Search

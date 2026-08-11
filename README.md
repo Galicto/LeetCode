@@ -15,6 +15,7 @@
 | [0067-add-binary](https://github.com/Galicto/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Galicto/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Galicto/LeetCode/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/Galicto/LeetCode/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/Galicto/LeetCode/tree/master/0096-unique-binary-search-trees) |
 ## Hash Table
 |  |
@@ -190,6 +191,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/Galicto/LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Galicto/LeetCode/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/Galicto/LeetCode/tree/master/0089-gray-code) |
 ## String Matching
 |  |
 | ------- |
@@ -261,5 +263,6 @@
 ## Backtracking
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/Galicto/LeetCode/tree/master/0089-gray-code) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Galicto/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->

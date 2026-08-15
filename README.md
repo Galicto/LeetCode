@@ -10,6 +10,7 @@
 | [0012-integer-to-roman](https://github.com/Galicto/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Galicto/LeetCode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Galicto/LeetCode/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/Galicto/LeetCode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Galicto/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Galicto/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Galicto/LeetCode/tree/master/0067-add-binary) |
@@ -38,6 +39,7 @@
 | [0020-valid-parentheses](https://github.com/Galicto/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Galicto/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Galicto/LeetCode/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/Galicto/LeetCode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Galicto/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Galicto/LeetCode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Galicto/LeetCode/tree/master/0071-simplify-path) |
@@ -172,6 +174,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Galicto/LeetCode/tree/master/0043-multiply-strings) |
 | [0059-spiral-matrix-ii](https://github.com/Galicto/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Galicto/LeetCode/tree/master/0067-add-binary) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Galicto/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |

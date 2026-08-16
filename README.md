@@ -72,6 +72,7 @@
 | [0066-plus-one](https://github.com/Galicto/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Galicto/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Galicto/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/Galicto/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Galicto/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Galicto/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/Galicto/LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -111,6 +112,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Galicto/LeetCode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Galicto/LeetCode/tree/master/0071-simplify-path) |
+| [0085-maximal-rectangle](https://github.com/Galicto/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Galicto/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Galicto/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Galicto/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -145,6 +147,7 @@
 | [0045-jump-game-ii](https://github.com/Galicto/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Galicto/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Galicto/LeetCode/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/Galicto/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/Galicto/LeetCode/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Galicto/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Galicto/LeetCode/tree/master/0096-unique-binary-search-trees) |
@@ -247,6 +250,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/Galicto/LeetCode/tree/master/0036-valid-sudoku) |
 | [0059-spiral-matrix-ii](https://github.com/Galicto/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0085-maximal-rectangle](https://github.com/Galicto/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Galicto/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Breadth-First Search
 |  |
@@ -272,4 +276,8 @@
 | [0089-gray-code](https://github.com/Galicto/LeetCode/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/Galicto/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Galicto/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/Galicto/LeetCode/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
